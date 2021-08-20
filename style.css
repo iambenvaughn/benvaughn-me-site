@@ -7,4 +7,9 @@ button {
 	background-color:green;
 	height:30px;
 	width:150px;
+	color:white;
+	border-radius: 5px;
+}
+p {
+	color:white;
 }
